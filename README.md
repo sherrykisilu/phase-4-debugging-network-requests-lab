@@ -63,11 +63,13 @@ developing your own process.
 - Add a new toy when the toy form is submitted
 
   - How I debugged:
+  its supposed to create one toy not more than one so its toy.create
 
 - Update the number of likes for a toy
 
   - How I debugged:
-
+it didnt have a return statement
 - Donate a toy to Goodwill (and delete it from our database)
 
   - How I debugged:
+  there was no route for delete so I added the route
